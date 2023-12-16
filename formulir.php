@@ -11,8 +11,6 @@ if (isset($_POST['submit'])) {
     if($nama == "" || $nim == "" || $prodi == "" || $email == "" || $jenis_kelamin == "" || $tanggal_lahir == "" || $alamat == "") {
         echo"<script>alert('Harap lengkapi semua field yang ada silahkan isi ulang inputan');</script>";
     }else{
-        
-        mysqli_query($konek, "INSERT INTO admin(nama, username, password) VALUES ('$nama','$username','$password')");
         mysqli_query($konek," INSERT INTO mahasiswa (nama, nim, prodi, email, jenis_kelamin, tgl_lahir, alamat) VALUES ('$nama', '$nim', '$prodi', '$email', '$jenis_kelamin', '$tanggal_lahir', '$alamat')");
         echo"<script>alert('tambah data berhasil'); document.location = '?page=tabel';</script>";
     }
