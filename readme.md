@@ -4,8 +4,8 @@
 
 # link website demo
 https://uas-121140142-fadhilfiroos.000webhostapp.com/index.php
-username : admin
-password : admin
+- username : admin
+- password : admin
 
 - untuk menggunakan program ini pertama  buka phpmyadmin dengan mengetikkan url "http://localhost/phpmyadmin/" kemudian buat database dengan nama (menyesuaikan dari pemakaian).
 
