@@ -1,3 +1,6 @@
+# UAS PEMROGRAMAN WEB
+# NAMA : FADHIL FIROOS
+# NIM  : 121140142
 - untuk menggunakan program ini pertama  buka phpmyadmin dengan mengetikkan url "http://localhost/phpmyadmin/" kemudian buat database dengan nama (menyesuaikan dari pemakaian).
 
 - import database kemudian pilih file dengan nama "UAS.sql".
