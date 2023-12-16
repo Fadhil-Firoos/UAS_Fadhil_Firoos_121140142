@@ -27,7 +27,7 @@
                     <td><?php echo $data['jenis_kelamin']; ?></td>
                     <td><?php echo $data['tgl_lahir']; ?></td>
                     <td><?php echo $data['alamat']; ?></td>
-                    <td width="21%">
+                    <td width="22%">
                         <a class="btn" href="?page=edit&&id=<?php echo $data['id']?>">Edit</a>
                         <a class="btn_tbh" href="?page=read&&id=<?php echo $data['id']?>">Read</a>
                         <a class="btn_del" href="?page=delete&&id=<?php echo $data['id']?>">Delete</a>
