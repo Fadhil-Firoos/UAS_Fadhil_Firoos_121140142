@@ -17,7 +17,7 @@ if (isset($_POST['submit'])) {
 }
 ?>
 <div class="form">
-            <h1>Formulir Pendafataran</h1>
+            <h1>Tambah Data</h1>
             <form method="post" enctype="multipart/form-data">
                 <table class="pendaftaran">
                     <tr>
