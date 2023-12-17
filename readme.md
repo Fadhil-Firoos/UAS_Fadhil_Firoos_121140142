@@ -3,7 +3,7 @@
 # NIM  : 121140142
 
 # link website demo
-https://uas-121140142-fadhilfiroos.000webhostapp.com/index.php
+https://uas-121140142-fadhilfiroos.000webhostapp.com
 - username : admin
 - password : admin
 
